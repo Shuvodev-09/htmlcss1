@@ -1,0 +1,27 @@
+h1{
+    color: rgb(9, 57, 71);text-align: center;
+    font-size: 35px;
+}
+h3{
+    text-align: center;color: rgb(57, 94, 82);
+    background-color: rgb(149, 151, 91);
+    font-size: 25px;
+}
+img{
+    height: 200px;width: 300px;
+    object-fit: cover;
+}
+p{
+    text-align: justify;color: rgba(7, 1, 12, 0.942);background-color: rgb(190, 165, 104);
+    font-size: 20px;font-style: italic;
+}
+body{
+    background-color: rgb(160, 151, 82);
+}
+
+#one{
+
+}
+.two{
+    background-color: rgb(131, 134, 82);
+}
